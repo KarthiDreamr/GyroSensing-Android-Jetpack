@@ -11,7 +11,7 @@ This repository contains an Android Jetpack Compose application that displays gy
 
 ## Screenshots 📸
 
-*Coming soon...*
+<img src="assets/screen1.png" width="200"/> 
 
 ## How to Run 🏃‍♀️
 
